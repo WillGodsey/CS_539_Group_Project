@@ -19,7 +19,7 @@ In order to use our code you will need a python environment, and to install the 
 2. Numpy
 3. Pydeck
 4. streamlit_searchbox
-5. pands
+5. pandas
 6. SciKit Learn
 7. nltk
 8. ast
